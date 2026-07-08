@@ -1,0 +1,33 @@
+🔹 Introduction to C Programming
+C Programming Language is a powerful, general-purpose language created by Dennis Ritchie at Bell Labs in 1972. It is widely regarded as the foundation of modern programming because many popular languages such as C++, Java, and Python are built on its concepts.
+
+✨ Key Features
+-> Structured → supports modular programming with functions
+
+-> Efficient → produces fast, optimized machine-level code
+
+-> Portable → runs across different platforms with minimal changes
+
+-> Low-level access → allows direct memory manipulation using pointers
+
+-> Rich libraries → provides built-in functions for I/O, strings, and math
+
+📌 Why Learn C?
+-> Builds strong fundamentals in programming and computer science
+
+-> Essential for system programming, operating systems, compilers, and embedded systems
+
+-> Helps in understanding how computers work internally
+
+-> Forms the base for learning advanced languages
+
+🚀 Applications
+-> Operating systems (e.g., UNIX, Linux kernel)
+
+-> Compilers and interpreters
+
+-> Embedded systems and microcontrollers
+
+-> Game development
+
+-> Database systems
